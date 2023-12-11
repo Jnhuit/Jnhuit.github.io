@@ -10,7 +10,7 @@ Volleyball is a team sport in which two teams of six players are separated by a 
 
 An outside hitter hits and blocks from the left side of the court. Normally, they also carry the responsibilities of passing and playing defense when they get to the back row. The outside typically gets the most sets, especially when the setter is out of the system, due to the fact that the outside set is one of the easier options to set. An outside’s responsibilities include hitting from the front and back row, passing in serve receive, playing left or middle-back defense, and blocking.
 
-**2. Opposite Hittler or Right side**
+**2. Opposite Hitter or Right side**
 
 Opposite hitters earned that title because they are opposite to the strong (left) side hitter, meaning they hit behind the setter. In a 6-1, just like an outside hitter, an opposite has the option to play all the way around, passing, playing defense, and hitting out of the back row. An opposite’s responsibilities include swinging from the front and back row, playing right-back defense, and blocking the other team’s outside hitter.
 
