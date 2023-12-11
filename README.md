@@ -6,9 +6,15 @@ Volleyball is a team sport in which two teams of six players are separated by a 
 
 **The 7 Volleyball Positions**
 1.Outside Hitter or Left side
+
 2.Opposite Hittler or Right side
+
 3.Middle Blocker 
+
 4.Setter
+
 5.Libero
+
 6.Defensive specialist
+
 7.Serving Specialist
